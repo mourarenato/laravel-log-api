@@ -19,3 +19,4 @@ yarn-error.log
 /.vscode
 /coverage
 /db
+/public/files/*
